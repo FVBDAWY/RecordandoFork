@@ -1,0 +1,22 @@
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.AssemblyReference.cache
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\obj\Debug\Ejercicio_8.Form1.resources
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\obj\Debug\Ejercicio_8.Properties.Resources.resources
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.GenerateResource.cache
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+C:\Users\Paco\OneDrive\Escritorio\Para entregar al de programacion\Ejercicio 8\obj\Debug\Ejercicio 8.pdb
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.AssemblyReference.cache
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\obj\Debug\Ejercicio_8.Form1.resources
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\obj\Debug\Ejercicio_8.Properties.Resources.resources
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.GenerateResource.cache
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+C:\Users\Paco\OneDrive\Escritorio\EjerciciosTema6ModificadosFVB\Ejercicio 8\obj\Debug\Ejercicio 8.pdb
