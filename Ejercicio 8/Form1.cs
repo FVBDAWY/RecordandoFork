@@ -50,7 +50,11 @@ namespace Ejercicio_8
                     {
                         numerosUsuario.Add(numero);
                     }
-                    else MessageBox.Show("El numero ya ha sido introducido, prueba otro");
+                    else
+                    {
+                        MessageBox.Show("El numero ya ha sido introducido, prueba otro");
+                        //Prueba
+                    }
                 }
                 else
                 {
