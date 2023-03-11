@@ -105,7 +105,7 @@ namespace Ejercicio_8
             return texto;
         }
 
-        private int numerosAcertadosSorteo(List<int> numeroSorteo, List<int> numeroUsuario)
+        public int numerosAcertadosSorteo(List<int> numeroSorteo, List<int> numeroUsuario)
         {
             int numerosAcertados = 0;
             int j = 0;
